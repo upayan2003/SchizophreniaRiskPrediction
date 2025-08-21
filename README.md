@@ -1,4 +1,4 @@
-# SchizophreniaRiskPrediction
+# Schizophrenia Risk Prediction
 
 This project explores the use of Machine Learning (ML) models to predict the diagnosis of Schizophrenia, a complex mental disorder characterized by symptoms such as hallucinations, delusions, and erratic behavior.
 The goal is to build ML models that can assist in predicting Schizophrenia based on patient data, helping in early detection and analysis.
