@@ -14,3 +14,13 @@ The goal is to build ML models that can assist in predicting Schizophrenia based
 - Compare models using performance metrics such as:
   - Classification Report (F1-score, Precision, Recall, Accuracy)
   - ROC-AUC values
+
+---
+
+## Machine Learning Models Used
+
+1. `Logistic Regression`
+2. `Naive Bayes Classification`
+3. `Decision Tree Classification`
+4. `Random Forest Classification`
+5. `XGBoost Classification`
